@@ -1,0 +1,32 @@
+Host git.linecorp.com
+Port 20022
+User git
+# --- Sourcetree Generated ---
+Host thinh2zalo-GitHub
+	HostName github.com
+	User thinh2zalo
+	PreferredAuthentications publickey
+	IdentityFile /Users/thinguyen/.ssh/thinh2zalo-GitHub
+	UseKeychain yes
+	AddKeysToAgent yes
+# ----------------------------
+
+# --- Sourcetree Generated ---
+Host mailthi216@gmail.com-GitHub
+	HostName github.com
+	User mailthi216@gmail.com
+	PreferredAuthentications publickey
+	IdentityFile /Users/thinguyen/.ssh/mailthi216@gmail.com-GitHub
+	UseKeychain yes
+	AddKeysToAgent yes
+# ----------------------------
+
+# --- Sourcetree Generated ---
+Host hoaithi216-GitHub
+	HostName github.com
+	User hoaithi216
+	PreferredAuthentications publickey
+	IdentityFile /Users/thinguyen/.ssh/hoaithi216-GitHub
+	UseKeychain yes
+	AddKeysToAgent yes
+# ----------------------------
